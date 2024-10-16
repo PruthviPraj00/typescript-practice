@@ -37,10 +37,10 @@ var array5: number[][] = [[1, 2, 3], [4, 5]];
 // Tuple Array-----------------
 
 // Tuple with fixed length and specific element types
-var tuple1: [number, string] = [1, "hello"];
+var tuple1: [number, string] = [1, "hellddddo"];
 
 // Tuple with mixed types
-var tuple2: [number, string, boolean] = [42, "world", true];
+var tuple2: [number, string, boolean] = [42, "woasdasdrld", true];
 
 // Tuple with inferred types (type inference based on values)
 var tuple3 = [1, "hello"] as const;
@@ -76,7 +76,7 @@ const obj5: { sayHello: (name: string) => string } = {
 obj5.sayHello("John"); // Hello John
 
 // Object type with union
-const obj6: { name: string } | { age: number } = { name: "Joasdhn" }; // basically or operator
+const obj6: { name: string } | { age: number } = { name: "Joasdcxccchn" }; // basically or operator
 
 // Object type with intersection
 const obj7: { name: string } & { age: number } = { name: "John", age: 30 }; // basically and operator

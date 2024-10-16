@@ -402,7 +402,7 @@ console.log(getAge(age)); // 30
 
 // Nullish coalescing operator ??
 
-const namea = null ?? "default string";
+const namea = null ?? "sdddddss";
 console.log(namea); // "default string"
 
 // Null Assertion Operator !.

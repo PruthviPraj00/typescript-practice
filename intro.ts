@@ -76,7 +76,7 @@ const obj5: { sayHello: (name: string) => string } = {
 obj5.sayHello("John"); // Hello John
 
 // Object type with union
-const obj6: { name: string } | { age: number } = { name: "Joasdhn" }; // basically or operator
+const obj6: { name: string } | { age: number } = { name: "Joasdcxccchn" }; // basically or operator
 
 // Object type with intersection
 const obj7: { name: string } & { age: number } = { name: "John", age: 30 }; // basically and operator

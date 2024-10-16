@@ -37,10 +37,10 @@ var array5: number[][] = [[1, 2, 3], [4, 5]];
 // Tuple Array-----------------
 
 // Tuple with fixed length and specific element types
-var tuple1: [number, string] = [1, "hello"];
+var tuple1: [number, string] = [1, "hellddddo"];
 
 // Tuple with mixed types
-var tuple2: [number, string, boolean] = [42, "world", true];
+var tuple2: [number, string, boolean] = [42, "woasdasdrld", true];
 
 // Tuple with inferred types (type inference based on values)
 var tuple3 = [1, "hello"] as const;
